@@ -8,14 +8,12 @@ The repository contains a Maven project for the aforementioned Project.
 
 WORKING .JAR FILE IN LOCATION ./SkyBreaker/out/artifacts/SkyBreaker_jar/
 
-#Short description (in Polish)
+# Short description
 
 SkyBreaker
-• Gra offline typu block destroyer
-• Za każdym razem gdy wszystkie piłki wystrzelone przez gracza spadną na ziemię obniża się obecny sufit i w najwyższym wierszu pojawia się kolejny pas bloków do zbicia
-• Gra kończy się przegraną gracza (nie da się wygrać)
-• W każdym pasie bloków do zbicia występuje jedna gwiazdka - zebranie gwiazdki za pomocą piłki powoduje że przy kolejnym poziomie liczba naszych dostępnych piłek zwiększa się
-• Liczba uderzeń wymaganych do zbicia bloku zależna jest od poziomu na którym się pojawił
-• Dodatkowe urozmaicenia gry (bonusowe efekty) - zależne od tego jak skomplikowany okaże się projekt
-
-Narzędzia: JavaFX
+• Block destroyer offline game
+• Every time when balls shooted by player will hit the ground, ceiling goes down and new row of obstacles appears
+• Game ends only with player loosing
+• Collecting stars increases number of balls to shoot
+• Number of punches to break the brick depends on game level
+Tools: JavaFX
